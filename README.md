@@ -18,6 +18,7 @@ Atau cukup menginstall requirements.txt dengan cara berikut
 pip install -r requirements.txt
 ```
 
+<!--
 ## Rubics
 
 - Environment preparation (2 points)
@@ -76,3 +77,4 @@ Pada captsone kali ini, bisa memilih salah satu soal ini untuk dikerjakan.
 
 
 Happy learning! 
+-->
