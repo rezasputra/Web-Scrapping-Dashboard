@@ -2,6 +2,9 @@
 
 Projek ini dikembangkan sebagai salah satu capstone project dari Algoritma Academy Data Analytics Specialization. Deliverables yang diharapkan dari projek ini adalah melakukan simple webscrapping untuk mendapatkan informasi. Kita juga akan memanfaatkan flask dashboard sederhana untuk menampilkan hasil scrap dan visualisasi kita.
 
+![image](https://user-images.githubusercontent.com/66559322/148322331-119cd61b-38f0-4a70-b30d-e11af7bcef9d.png)
+
+
 ## Dependencies
 
 - beautifulSoup4
