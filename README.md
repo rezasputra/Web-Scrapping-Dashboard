@@ -18,6 +18,9 @@ Atau cukup menginstall requirements.txt dengan cara berikut
 pip install -r requirements.txt
 ```
 
+## Deployment
+Dashboard ini telah dideploy dan dapat diakses melalui https://web-scrapping-dashboard.herokuapp.com/
+
 <!--
 ## Rubics
 
