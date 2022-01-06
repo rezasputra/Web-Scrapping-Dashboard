@@ -4,5 +4,6 @@ Flask==2.0.1
 Jinja2==3.0.1
 Werkzeug==2.0.1
 pandas==1.2.4
+matplotlib==3.3.3
 requests
 bs4
